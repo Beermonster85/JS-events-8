@@ -35,5 +35,5 @@
 // 6. Вопрос: Почему в console.log пишется сначала текст из 5 задания и только потом выводится текст из 3 задания, если мы кликаем по кнопкам в ul? Ответ необходимо написать здесь же, под этим комментарием, своими словами.
 // 7. С помощью JS необходимо изменить цвет заднего фона каждого второго тега li.
 //document.querySelectorAll('li:nth-child(2n)')
-//.forEach(el => el.style.backgroundColor = 'red');
+//.forEach(el => el.style.backgroundColor = 'green');
 "use strict";

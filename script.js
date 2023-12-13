@@ -55,4 +55,4 @@
 // 7. С помощью JS необходимо изменить цвет заднего фона каждого второго тега li.
 
 //document.querySelectorAll('li:nth-child(2n)')
-//.forEach(el => el.style.backgroundColor = 'red');
+//.forEach(el => el.style.backgroundColor = 'green');
